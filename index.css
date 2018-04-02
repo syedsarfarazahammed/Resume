@@ -33,7 +33,8 @@ img{
   margin-right: auto;
   width: 150px;
   height: 150px;
-  border-radius: 25%;
+  border-top-right-radius: 15%;
+  border-bottom-left-radius: 15%;
   vertical-align: middle;
 }
 h2,h3{
