@@ -7,17 +7,20 @@
       {
         "Degree":"SSC",
         "School":"Sree Chaitanya School",
-        "Data":["2013","9.5"]
+        "Percentage/CGPA":"9.5",
+        "Year of passing":"2013"
         },
       {
         "Degree":"Intermediate(BIE)",
         "School":"Sree Chaitanya Junior College",
-        "Data":["2015","93.6"]
+        "Percentage/CGPA":"93.6",
+        "Year of passing":"2015"
         },
       {
         "Degree":"Bachelor of Technology in CS",
         "School":"Sree Vidyanikethan Engineering College",
-        "Data":["2019","8.54"]
+        "Percentage/CGPA":"8.54",
+        "Year of passing":"2019"
         }
     ]
 
