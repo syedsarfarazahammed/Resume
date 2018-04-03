@@ -1,5 +1,5 @@
 body{
-  background-color: #E3E2D4;
+  background-color: #17252a;
 }
 .flex-parent{
   display: flex;
@@ -10,7 +10,7 @@ body{
 .profile{
   width: 30%;
   height: auto;
-  background: #17252a;
+  background: #E3E2D4;E3E2D4
   margin: 2%;
   padding: 1%;
   border: 2px solid #F172A2;
@@ -20,7 +20,7 @@ body{
 .content{
   width: 70%;
   height: auto;
-  background: #17252a;
+  background: #E3E2D4;
   margin: 2%;
   padding: 1%;
   border: 2px solid #F172A2;
@@ -38,17 +38,17 @@ img{
   vertical-align: middle;
 }
 h2,h3{
-  color: #CCC;
+  color: #333;
   text-align: center;
 }
 a{
   text-decoration: none;
-  color: #CCC;
+  color: #ccc;
   background-color: #6264EC;
 
 }
 a:hover{
-  background-color: #17252a;
+  background-color: #E3E2D4;
   color: #6264EC;
   font-weight:bolder;
 }
