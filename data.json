@@ -1,6 +1,24 @@
 {
   "career":
   {
-  "info":"Energetic and passionate college student working towards a B.Tech in Computer Science at the Sree Vidyanikethan Engineering College.Aiming to use my knowledge of programming ,problem solving ,web development, and math solving to satisfy the blockchain internship at your company. "
-    }
+  "info":"Energetic and passionate college student pursuing Undergraduation in Computer Science at Sree Vidyanikethan Engineering College.Aiming to use my knowledge of programming ,problem solving ,web development, and math solving to satisfy the blockchain internship at your company. "
+},
+    "education":[
+      {
+        "Degree":"SSC",
+        "School":"Sree Chaitanya School",
+        "Data":["2013","9.5"]
+        },
+      {
+        "Degree":"Intermediate(BIE)",
+        "School":"Sree Chaitanya Junior College",
+        "Data":["2015","93.6"]
+        },
+      {
+        "Degree":"Bachelor of Technology in CS",
+        "School":"Sree Vidyanikethan Engineering College",
+        "Data":["2019","8.54"]
+        }
+    ]
+
 }
