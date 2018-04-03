@@ -50,4 +50,5 @@ a{
 a:hover{
   background-color: #17252a;
   color: #6264EC;
+  font-weight:bolder;
 }
