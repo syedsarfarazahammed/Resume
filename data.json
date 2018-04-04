@@ -22,6 +22,29 @@
         "Percentage/CGPA":"8.54",
         "Year of passing":"2019"
         }
+    ],
+    "skills":[
+      {
+        "name":"Programming Languages",
+        "info":["C","C++","JAVA","PYTHON"]
+      },
+      {
+        "name":"Operating Systems",
+        "info":["Windows", "Ubuntu", "Kali", "Fedora", "Arch", "Mint", "Macinthosh"]
+      },
+      {
+        "name":"Web Technologies",
+        "info":["HTML", "CSS", "JavaScript", "Jquery"]
+      },
+      {
+        "name":"Frameworks",
+        "info":["Drupal", "Wordpress", "Laravel", "Bootstrap", "Hadoop"]
+      },
+      {
+        "name":"Databases",
+        "info":["MySQL", "MongoDb", "Oracle"]
+      }
     ]
+
 
 }

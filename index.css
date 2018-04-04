@@ -14,8 +14,8 @@ body{
   margin: 2%;
   padding: 1%;
   border: 2px solid #72A2F1;
-  border-top-right-radius: 15%;
-  border-bottom-left-radius: 15%;
+  border-top-left-radius: 10%;
+  border-bottom-right-radius: 10%;
 }
 .content{
   width: 70%;
@@ -24,8 +24,8 @@ body{
   margin: 2%;
   padding: 1%;
   border: 2px solid #72A2F1;
-  border-top-left-radius: 15%;
-  border-bottom-right-radius: 15%;
+  border-top-left-radius: 10%;
+  border-bottom-right-radius: 10%;
 }
 img{
   padding-top: 2px;
@@ -61,6 +61,9 @@ table{
   width: 100%;
   font-size: 18px;
 }
+th{
+  ;
+}
 @media only screen and (min-width:0px) and (max-width:480px) {
   body{
     background-color: #110000;
@@ -77,8 +80,6 @@ table{
     margin: 1%;
     padding: 0%;
     border: 2px solid #F172A2;
-    border-top-right-radius: 15%;
-    border-bottom-left-radius: 15%;
   }
   .content{
     width: 100%;
@@ -87,8 +88,7 @@ table{
     margin: 1%;
     padding: 0%;
     border: 2px solid #F172A2;
-    border-top-right-radius: 15%;
-    border-bottom-left-radius: 15%;
+
   }
   a{
     text-decoration: none;
@@ -118,8 +118,6 @@ table{
     margin: 1%;
     padding: 0%;
     border: 2px solid #72F1A2;
-    border-top-right-radius: 15%;
-    border-bottom-left-radius: 15%;
   }
   .content{
     width: 100%;
@@ -128,8 +126,6 @@ table{
     margin: 1%;
     padding: 0%;
     border: 2px solid #72F1A2;
-    border-top-right-radius: 15%;
-    border-bottom-left-radius: 15%;
   }
   a{
     text-decoration: none;
@@ -159,8 +155,6 @@ table{
     margin: 1%;
     padding: 0%;
     border: 2px solid #72d177;
-    border-top-right-radius: 15%;
-    border-bottom-left-radius: 15%;
   }
   .content{
     width: 100%;
@@ -169,8 +163,6 @@ table{
     margin: 1%;
     padding: 0%;
     border: 2px solid #72d177;
-    border-top-right-radius: 15%;
-    border-bottom-left-radius: 15%;
   }
   a{
     text-decoration: none;
