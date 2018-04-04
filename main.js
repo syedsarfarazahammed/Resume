@@ -9,7 +9,6 @@ function loadJSON(file,callback) {
   };
   xhr.send();
 }
-
 loadJSON("data.json",function(text) {
   let data=JSON.parse(text);
   console.log(data.education);
@@ -17,7 +16,6 @@ loadJSON("data.json",function(text) {
   edu(data.education);
   skills(data.skills);
 })
-
 var right= document.querySelector(".content");
 
 function career(car){
@@ -30,7 +28,6 @@ function career(car){
   p.textContent=car.info;
   right.appendChild(p);
 }
-
 function edu(ed){
   var h3=document.createElement("h3");
   h3.textContent="Educational Details";
@@ -63,16 +60,13 @@ function edu(ed){
     }
   right.appendChild(table);
 }
-
 function skills(sk){
   var h3=document.createElement("h3");
   h3.textContent="Skills";
   right.appendChild(h3);
   var hr=document.createElement("hr");
   right.appendChild(hr);
-  var tab=document.createElement("table");
-  var tr = table.insertRow(-1)
-  
+
   var ul=document.createElement("ul");
   right.appendChild(ul);
   for(let i=0;i<sk.length;i++){

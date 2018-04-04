@@ -10,7 +10,7 @@ body{
 .profile{
   width: 30%;
   height: auto;
-  background: #E3E2D4;E3E2D4
+  background: #E3E2D4;
   margin: 2%;
   padding: 1%;
   border: 2px solid #72A2F1;
@@ -59,10 +59,7 @@ p{
 table{
   text-align: center;
   width: 100%;
-  font-size: 18px;
-}
-th{
-  ;
+  font-size: 1.5vw;
 }
 @media only screen and (min-width:0px) and (max-width:480px) {
   body{
@@ -76,7 +73,7 @@ th{
   .profile{
     width: 100%;
     height: auto;
-    background: #E3E2D4;E3E2D4
+    background: #E3E2D4;
     margin: 1%;
     padding: 0%;
     border: 2px solid #F172A2;
@@ -114,7 +111,7 @@ th{
   .profile{
     width: 100%;
     height: auto;
-    background: #E3E2D4;E3E2D4
+    background: #E3E2D4;
     margin: 1%;
     padding: 0%;
     border: 2px solid #72F1A2;
@@ -151,7 +148,7 @@ th{
   .profile{
     width: 100%;
     height: auto;
-    background: #E3E2D4;E3E2D4
+    background: #E3E2D4;
     margin: 1%;
     padding: 0%;
     border: 2px solid #72d177;
